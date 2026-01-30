@@ -58,4 +58,4 @@ The application allows users to export all expense data into a **CSV file**, whi
 
 ## 🙌 Author
 
-Developed by **Ashu Thakur**
+Developed by **Ashu Kr Thakur**
